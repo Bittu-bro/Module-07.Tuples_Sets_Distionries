@@ -32,10 +32,15 @@
 # print(f"\n{l1}\n{type(l1)}")
 
 
+
+
 #list = ["python", 23, 3.5, True,[2,9,4,8]]
 # print(f"{list}\n{type(list)}\n")
 # t0 = tuple(list[-1])
 # print(f"\n{t0}\n{type(t0)}")
+
+
+
 
 
 #one more example
