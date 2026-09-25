@@ -5,13 +5,13 @@
 
 
 # # ###common subject of Bittu & Shivam
-# # #common_subject = bittu_subject.intersection(shivam_subject)         ## You can use as well as symboll of intersection
+# # #common_subject = bittu_subject.intersection(shivam_subject)         ## You can use as well as symboll of intersection "&".
 # # common_subject = bittu_subject & (shivam_subject)
 # # print(common_subject)
 
 
 # # ###All subject
-# # #all_subject = bittu_subject.union(shivam_subject)         ## You can use as well as symboll of union
+# # #all_subject = bittu_subject.union(shivam_subject)         ## You can use as well as symboll of union "|".
 # # all_subject = bittu_subject | (shivam_subject)
 # # print(all_subject)
 
@@ -40,4 +40,3 @@ weekend = {"sat", "sun"}
 weekdays = days - weekend
 
 print(weekdays)
-
